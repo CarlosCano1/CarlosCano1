@@ -9,7 +9,7 @@
 
 
 ### About Me 🌐
-10+ Years of Healthcare in Data Collection & Application in a dynamic business settings. 
+10+ Years of Healthcare Data Collection & Application in a dynamic business settings. 
 
 
 ### Professional Highlights
