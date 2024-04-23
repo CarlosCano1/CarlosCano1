@@ -29,8 +29,6 @@
 - **Bachelors of Science Business Economics**, California State University, Los Angeles
 
 
-🔗 Working harder today for an easier tomorow with the use of Machine Learning and AI application for your business needs. 
-
 ### Current Events
 - I’m currently working on wrapping up my Masters in Data Science
 - New Baby Alert! Baby born 4/2/24
@@ -40,5 +38,4 @@
 - I’m currently learning Data Reporting for FINRA based Brokerage Firms
 
 
-
-
+🔗 Working harder today for an easier tomorow with the use of Machine Learning and AI application for your business needs. 
