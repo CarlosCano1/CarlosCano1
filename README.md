@@ -1,41 +1,57 @@
-# Welcome, I'm Carlos Cano
+# Data Science Portfolio
 
-## AI | ML Data Scientist/Engineer Focus on Applied AI
+**Carlos Cano** | MS Data Science | Applied Machine Learning & Analytics
 
-📍 **United States**  
-📧 **Email:** [carloscano@me.com](mailto:carloscano@me.com)  
-🔗 **LinkedIn:** [cano-carlos](https://linkedin.com/in/cano-carlos)  
-👨‍💻 **GitHub:** [CarlosCano1](https://github.com/CarlosCano1)
+---
 
+## Featured Projects
 
-### About Me 🌐
-10+ Years of Healthcare Data Collection & Application in a dynamic business settings. 
+### Diabetes Outcome Prediction
+**Classification Model** — Logistic Regression + KNN  
+- Achieved **96.03% accuracy** using hyperparameter tuning on CDC BRFSS health data.  
+- Identified key clinical risk factors for diabetes prediction.  
 
+**Tech:** Python, Scikit-Learn, Pandas, Matplotlib/Seaborn  
+[→ View Project](https://github.com/CarlosCano1/Diabetes_Analysis)
 
-### Professional Highlights
-- **Bellevue University Candiate Group Team Lead** - Omaha, NE USA( 2024 )
-- **Data Marketing Specialist** - Los Angeles, CA - USA ( 2023 )
-- **Stragetic Business Data Analyst** - Reston, VA - USA ( 2022 )
-- **Data Analyst** - Los Angeles, CA - USA ( 2014 - 2022 )
+### Fraud Detection & Prediction
+**Supervised Learning** — Random Forest Classifier  
+- Built predictive model to identify fraudulent credit card transactions.  
+- Focused on model performance, feature importance, and interpretability.
 
+**Tech:** Python, Scikit-Learn, Pandas  
+[→ View Project](https://github.com/CarlosCano1/Fraud-Based-Detection-and-Prediction)
 
-### Professional Tech Tool Repertoire  
-- **Languages:** Python, R, SQL, JavaScript, Ruby
-- **Tools:** AWS, GCP, Docker, Git
-- **Specialties:** Regressive Analysis, Predicative Analytics, NLP, Generative AI
+### Los Angeles Crime Analysis
+**EDA + Modeling** (Linear Regression & KNN)  
+- Analyzed crime patterns across Los Angeles.  
+- Achieved **R² = 0.999** on refined model.
 
-### Education 
-- **Candiate for Masters in Data Science**, Bellevue University
-- **Bachelors of Science Business Economics**, California State University, Los Angeles
+**Tech:** Python, Pandas, Scikit-Learn  
+[→ View Project](https://github.com/CarlosCano1/Crime_EDA)
 
+### Cardiovascular Disease Risk Analysis
+**Multivariable Regression**  
+- Analyzed health factors contributing to cardiovascular disease risk.
 
-### Current Events
-- I’m currently working on wrapping up my Masters in Data Science
-- New Baby Alert! Baby born 4/2/24
+**Data Source:** Mendeley  
+[→ View Project](https://github.com/CarlosCano1/Cardiovascular-Disease-Factor-Analysis)
 
+### New York Housing Market Analysis
+**EDA & Price Prediction**  
+- Explored factors driving housing prices in New York.
 
-### Currently Learning
-- I’m currently learning Data Reporting for FINRA based Brokerage Firms
+**Data Source:** Kaggle  
+[→ View Project](https://github.com/CarlosCano1/New-York-Home-Price-Analysis)
 
+---
 
-🔗 Working harder today for an easier tomorow with the use of Machine Learning and AI application for your business needs. 
+## Other Projects
+- World Happiness Report EDA  
+- Credit Profile Analysis (India)  
+- Sentiment Analysis using Bag of Words (NLP)  
+- Python Visualization Gallery (Histograms, Box Plots, Heatmaps, Bullet Charts, etc.)
+
+---
+
+**All code is available in the individual repositories.** Feel free to explore, and reach out if you'd like to discuss any project in detail!
